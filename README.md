@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Diego Paccha 👋</h1>
+<h1 align="center">Hola, soy Diego Márquez 👋</h1>
 <p align="center">
   <b>Ingeniero en Ciencias de la Computación · Desarrollo de software e infraestructura</b><br>
   Loja, Ecuador 🇪🇨
